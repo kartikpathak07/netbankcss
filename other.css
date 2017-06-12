@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+.other.pages{
+	background-image: url("css/back.jpg");
+	 width: 360px;
+  padding: 8% 0 0;
+  margin: auto;
+  float: left;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.form {
+  position: relative;
+  z-index: 1;
+ background-color: transparent;
+  max-width: 500px;
+  float: right;
+  margin-left: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
